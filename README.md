@@ -4,8 +4,8 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/greymatters_bots_discussion)
 
 ## How to Deploy? 🤔
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NefronX/Auto-Forward-Bot)
-- 👆 Press the deploy button.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NefronX/Auto-Forward-BotMF)
+- 👆 Press the deploy button. hai to 
 
 - Go to  [my.telegram.org](https://my.telegram.org/)
      - And get your API ID
